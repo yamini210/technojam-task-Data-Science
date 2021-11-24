@@ -3,8 +3,8 @@
 # data science task 1
 ## table of content
 - how did i approach my task.
-    > i know all the stuff regarding this task from my school .But i learn about github and how to create readme file and for the first time i created my github account .
+    > i know all the stuff regarding this task from my school .But through this task i learn about github and how to create readme file and for the first time i created my github account .
 - about myself
-    > i learned python and mysql in my school and now i'm learning c lamguage in my 1st semester  
+    > I'am Yamini Thakur student of btech cse section 13. I learned python and mysql in my school and now i'm learning c lamguage in my 1st semester  
 
 
