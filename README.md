@@ -5,6 +5,6 @@
 - how did i approach my task.
     > i know all the stuff regarding this task from my school .But through this task i got the oppurtunity to learn about github and how to create readme file and for the first time i created my github account .
 - about myself
-    > I'am Yamini Thakur student of btech cse section 13. I learned python and mysql in my school and now i'm learning c lamguage in my 1st semester .Few days back i have start using hackerrank and now i'm 2 star certified in python  in hackerrank .I will love to learn more by entering in this club.
+    > I'am Yamini Thakur student of btech cse section 13. I learned python and mysql in my school and now i'm learning c lamguage in my 1st semester .Few days back i have start using hackerrank and now i'm 2 star certified in python  in hackerrank .I know getting 2 star is easy but it's just a beggining.I will love to learn more by entering in this club.
 
 
